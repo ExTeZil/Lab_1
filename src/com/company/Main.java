@@ -41,7 +41,7 @@ public class Main {
             case (20):
                 System.out.println("Двадцять");
                 break;
-            default:System.out.println("Ви ввели невырне значення");
+            //default:System.out.println("Ви ввели невырне значення");
         }
 
     }
